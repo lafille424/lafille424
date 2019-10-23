@@ -2,9 +2,7 @@
 
 using namespace std;
 
-
-
 void main()
 {
-	cout << "hello" << endl;
+	cout << "hello xxz" << endl;
 }
